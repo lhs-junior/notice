@@ -1,6 +1,7 @@
 
 기본 포트는 80 사용
 포트 중복 시 application.properties 에서 server.port 에서 변경하시면 됩니다.
+Spring Boot Framework, Gradle, JAVA 사용
 데이터 베이스는 H2 in-memory db 를 사용하였으므로 사전에 H2 Database Engine 이 설치되어있어야 합니다.
 
 Persistence 프레임워크는 ORM : Spring Data JPA 를 이용하였습니다.
